@@ -43,5 +43,6 @@ This repository is intended for educational and documentation purposes related t
 
 ## Related Resources
 
-- Recovery tracking notes and routine structure are documented in the companion repository.
-- External article exploring long-term cold plunge maintenance context and habits.
+- [Titan Cold Plunge Setup Guide](https://github.com/TitanColdPlungeGuide/titan-cold-plunge-setup-guide)
+
+- [What Most People Get Wrong About Long-Term Cold Plunge Maintenance](https://medium.com/@elliewatkins096/what-most-people-get-wrong-about-long-term-cold-plunge-maintenance-e32eed59330f)
