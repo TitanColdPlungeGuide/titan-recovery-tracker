@@ -40,3 +40,8 @@ Cold exposure routines often become more effective when sessions are tracked con
 ## Additional Notes
 
 This repository is intended for educational and documentation purposes related to wellness tracking and cold plunge recovery routines.
+
+## Related Resources
+
+- Recovery tracking notes and routine structure are documented in the companion repository.
+- External article exploring long-term cold plunge maintenance context and habits.
